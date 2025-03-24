@@ -1,7 +1,7 @@
 # Clash Of Coins Auto Claim Bonus (DWYOR)
 Clash Of Coins Claim Auto Bonus Every 10 Minutes
 ## Tools
-1. Register Flow3 Network Here [Flow3 Network Register](https://clashofcoins.com/)
+1. Register Clash Of Coins Here [Clash Of Coins](https://clashofcoins.com/)
 2. Go To Treasury
 3. Register Using EVM Wallet
 4. Click Play
