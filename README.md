@@ -5,6 +5,7 @@ Clash Of Coins Claim Auto Bonus Every 10 Minutes
 2. Go To Treasury
 3. Register Using EVM Wallet
 4. Click Play
+5. You Need Some ETH Base for Gas Fee
 ## How to Install For Windows
 - Download [Python](https://www.python.org/downloads/)
 ## How to Install For Linux
@@ -49,6 +50,5 @@ python main.py
 ```
 - DONE
 - NOTE
-```bash
-If You See 429 or Too Many Reqeust Just Rerun the bot
-```
+- You Need Some ETH Base for Gas Fee
+- If You See 429 or Too Many Reqeust Just Rerun the bot
