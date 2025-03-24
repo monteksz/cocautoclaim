@@ -48,3 +48,7 @@ go to https://clashofcoins.com/treasury and inspect go to aplication you can fin
 python main.py
 ```
 - DONE
+- NOTE
+```bash
+If You See 429 or Too Many Reqeust Just Rerun the bot
+```
